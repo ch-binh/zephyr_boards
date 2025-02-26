@@ -1,0 +1,5 @@
+board:
+  name: nrf52840_am1805
+  vendor: acd
+  socs:
+    - name: nrf52840
